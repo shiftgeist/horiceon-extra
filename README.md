@@ -8,6 +8,6 @@ Extras of [`horiceon`](https://github.com/shiftgeist/horiceon).
 
 ### Wallpapers
 
-| Image                                                | Author                                             | Source                                                                                          |
-| ---------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](./dot_local/share/wallpapers/planet_hopping.png) | [SpongeN0b](https://old.reddit.com/user/SpongeN0b) | [r/NoMansSkyTheGame](https://www.reddit.com/r/NoMansSkyTheGame/comments/j0mqvd/planet_hopping/) |
+| Image                                                                                                                            | Author                                             | Source                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [![](dot_local/share/wallpapers/previews/planet_hopping@3840x2160.png)](dot_local/share/wallpapers/planet_hopping@3840x2160.png) | [SpongeN0b](https://old.reddit.com/user/SpongeN0b) | [r/NoMansSkyTheGame](https://www.reddit.com/r/NoMansSkyTheGame/comments/j0mqvd/planet_hopping/) |
